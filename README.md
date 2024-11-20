@@ -2,9 +2,7 @@
 Task: Get recycling instructions for an item
 
 How to use the prototype:
-- Open the link provided on Piazza
-- Click through the interactive screens to complete the task.
+To use the Care+ prototype, click the link provided on Piazza. Next, click through the interactive screens to complete the task.
 
 Limitations:
-- Wizard of Oz technique: Typeable text requires "computer" to facilitate actions. Care+ team requires more interactions to implement these features. 
-- Hard-coded features: Material instructions were kept basic to generalize recycling instructions in Athens.
+The text inputs (cup, silicon) were hard-coded in to represent placeholders. Due to time constraints, we were unable to implement an interactive keyboard and text input bar. 
